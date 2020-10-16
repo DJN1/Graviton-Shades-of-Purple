@@ -5,7 +5,7 @@ Due to the fundamental differences between Microsoft's Visual Studio Code and th
 If you have any suggestions or improvements, please open an issue.
 
 ## 🕹 Developing
-This theme has been tested in Graviton v2.1.1
+This theme has been tested in Graviton v2.1.1 and will likely NOT work for Graviton 2.0.x, although this has not been tested.
 
 Clone the repo to the desired .graviton2/plugins:
 ```shell
