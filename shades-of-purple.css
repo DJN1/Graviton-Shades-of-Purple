@@ -1,60 +1,60 @@
-.CodeMirror-gutters {
+.cm-s-shades-of-purple.CodeMirror-gutters {
 	background: #28284E;
 }
-.CodeMirror-linenumber {
+.cm-s-shades-of-purple.CodeMirror-linenumber {
 	color: #A599E9;
 }
 
-.CodeMirror-cursor {
+.cm-s-shades-of-purple.CodeMirror-cursor {
 	border-left: 1px solid #FAD000;
 }
 
-.CodeMirror-selected {
+.cm-s-shades-of-purple.CodeMirror-selected {
 	background: #FF7200;
 }
 
 
-span.cm-keyword, span.cm-type, span.cm-operator, span.cm-meta {
+span.cm-keyword.cm-s-shades-of-purple, span.cm-type.cm-s-shades-of-purple, span.cm-operator.cm-s-shades-of-purple, span.cm-meta.cm-s-shades-of-purple {
 	color: #FF9D00;
 }
 
-span.cm-def, span.cm-atom, span.cm-builtin, span.cm-attribute {
+span.cm-def.cm-s-shades-of-purple, span.cm-atom.cm-s-shades-of-purple, span.cm-builtin.cm-s-shades-of-purple, span.cm-attribute.cm-s-shades-of-purple {
 	color: #FAD000;
 }
 
-span.cm-property {
+span.cm-property.cm-s-shades-of-purple {
 	color: #A5FF90;
 }
 
-span.cm-variable, span.cm-qualifier  {
+span.cm-variable.cm-s-shades-of-purple, span.cm-qualifier.cm-s-shades-of-purple  {
 	color: #9EFFFF;
 }
 
-span.cm-variable-2 {
+span.cm-variable-2.cm-s-shades-of-purple {
 	color: #FF628C;
 }
 
-span.cm-string, span.cm-string-2, span.cm-tag {
+span.cm-string.cm-s-shades-of-purple, span.cm-string-2.cm-s-shades-of-purple, span.cm-tag.cm-s-shades-of-purple {
 	color: #A5FF90;
 }
 
-span {
+span.cm-s-shades-of-purple {
 	color: #9EFFFF;
 }
 
-span.cm-string.cm-property {
+span.cm-string.cm-property.cm-s-shades-of-purple {
 	color: #FAD000;
 }
 
-span.cm-error span.cm-invalidchar {
+span.cm-error.cm-s-shades-of-purple,  span.cm-invalidchar.cm-s-shades-of-purple {
 	color: #EC3A37F5;
 }
 
-span.cm-number {
+span.cm-number.cm-s-shades-of-purple {
 	color: #F2628C;
 }
 
-span.cm-comment {
+span.cm-comment.cm-s-shades-of-purple {
 	color: #B362FF
 }
 
