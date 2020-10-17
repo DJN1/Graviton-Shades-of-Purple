@@ -1,60 +1,60 @@
-.cm-s-shades-of-purple.CodeMirror-gutters {
+.cm-s-shades-of-purple .CodeMirror-gutters {
 	background: #28284E;
 }
-.cm-s-shades-of-purple.CodeMirror-linenumber {
+.cm-s-shades-of-purple .CodeMirror-linenumber {
 	color: #A599E9;
 }
 
-.cm-s-shades-of-purple.CodeMirror-cursor {
+.cm-s-shades-of-purple .CodeMirror-cursor {
 	border-left: 1px solid #FAD000;
 }
 
-.cm-s-shades-of-purple.CodeMirror-selected {
+.cm-s-shades-of-purple .CodeMirror-selected {
 	background: RGBA(255, 114, 0, 0.65);
 }
 
 
-span.cm-keyword.cm-s-shades-of-purple, span.cm-type.cm-s-shades-of-purple, span.cm-operator.cm-s-shades-of-purple, span.cm-meta.cm-s-shades-of-purple {
+.cm-s-shades-of-purple span.cm-keyword, .cm-s-shades-of-purple span.cm-type, .cm-s-shades-of-purple span.cm-operator, .cm-s-shades-of-purple span.cm-meta {
 	color: #FF9D00;
 }
 
-span.cm-def.cm-s-shades-of-purple, span.cm-atom.cm-s-shades-of-purple, span.cm-builtin.cm-s-shades-of-purple, span.cm-attribute.cm-s-shades-of-purple {
+.cm-s-shades-of-purple span.cm-def, .cm-s-shades-of-purple span.cm-atom, .cm-s-shades-of-purple span.cm-builtin, .cm-s-shades-of-purple span.cm-attribute {
 	color: #FAD000;
 }
 
-span.cm-property.cm-s-shades-of-purple {
+.cm-s-shades-of-purple span.cm-property {
 	color: #A5FF90;
 }
 
-span.cm-variable.cm-s-shades-of-purple, span.cm-qualifier.cm-s-shades-of-purple  {
+.cm-s-shades-of-purple span.cm-variable, .cm-s-shades-of-purple span.cm-qualifier  {
 	color: #9EFFFF;
 }
 
-span.cm-variable-2.cm-s-shades-of-purple {
+.cm-s-shades-of-purple span.cm-variable-2 {
 	color: #FF628C;
 }
 
-span.cm-string.cm-s-shades-of-purple, span.cm-string-2.cm-s-shades-of-purple, span.cm-tag.cm-s-shades-of-purple {
+.cm-s-shades-of-purple span.cm-string, .cm-s-shades-of-purple span.cm-string-2, .cm-s-shades-of-purple span.cm-tag {
 	color: #A5FF90;
 }
 
-span.cm-s-shades-of-purple {
+.cm-s-shades-of-purple span {
 	color: #9EFFFF;
 }
 
-span.cm-string.cm-property.cm-s-shades-of-purple {
+.cm-s-shades-of-purple span.cm-string.cm-property {
 	color: #FAD000;
 }
 
-span.cm-error.cm-s-shades-of-purple,  span.cm-invalidchar.cm-s-shades-of-purple {
+.cm-s-shades-of-purple span.cm-error, .cm-s-shades-of-purple span.cm-invalidchar {
 	color: #EC3A37F5;
 }
 
-span.cm-number.cm-s-shades-of-purple {
+.cm-s-shades-of-purple span.cm-number {
 	color: #F2628C;
 }
 
-span.cm-comment.cm-s-shades-of-purple {
+.cm-s-shades-of-purple span.cm-comment {
 	color: #B362FF
 }
 
